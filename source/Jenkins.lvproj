@@ -42,7 +42,7 @@
 				<Property Name="Destination[1].path" Type="Path">/D/GitHub/Temp/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C16D83C3-1F9E-45DB-9B88-C583B09E2199}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{618DF4F3-A3E7-4296-90C1-2C962C290F0C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
